@@ -1,0 +1,11 @@
+.filter {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 9rem;
+  margin-bottom: 1rem;
+  .options {
+    width: fit-content;
+    display: flex;
+    justify-content: space-between;
+  }
+}

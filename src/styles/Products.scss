@@ -1,0 +1,12 @@
+.products-page-wrapper {
+  margin: 0;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+}
